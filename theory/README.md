@@ -76,6 +76,7 @@ This can be represented with boolean algebra like so:
 How can you represent the SUM and CARRY of adding THREE digits with a truth table and in boolean algebra?
 
 * A + B + C
+
 ```
 A     B     C      carry   sum
 --------------------------------
@@ -88,5 +89,6 @@ A     B     C      carry   sum
 1     1     0        ?      ?
 1     1     1        ?      ?
 ```
+
 * SUM = ?
 * CARRY = ?
